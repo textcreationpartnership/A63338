@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True account of the proceedings at the Sessions for London and Middlesex begun in the Old-Bailey on Wednesday the twenty-sixth of May, 1680 giving the substance of the tryals of several malefactors, the number and crimes of those comdemned, burnt in the hand &amp;c. : with an account of the proceedings against Captain Tom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63338</idno>
+            <idno type="STC">Wing T2392B</idno>
+            <idno type="STC">ESTC R28891</idno>
+            <idno type="EEBO-CITATION">10775851</idno>
+            <idno type="OCLC">ocm 10775851</idno>
+            <idno type="VID">45804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1412:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True account of the proceedings at the Sessions for London and Middlesex begun in the Old-Bailey on Wednesday the twenty-sixth of May, 1680 giving the substance of the tryals of several malefactors, the number and crimes of those comdemned, burnt in the hand &amp;c. : with an account of the proceedings against Captain Tom.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:45804:1"/>
+            <pb n="1" facs="tcp:45804:1" rendition="simple:additions"/>
+            <head>A true ACCOUNT OF THE PROCEEDINGS AT THE SESSIONS For <hi>London</hi> and <hi>Middleſex,</hi> Begun in the <hi>OLD-BAILEY</hi> on Wedneſday the Twenty ſixth of <hi>May.</hi> 1680. Giving the ſubſtance of the Tryals of ſeveral Male<g ref="char:EOLhyphen"/>factors; the Number and Crimes of thoſe Con<g ref="char:EOLhyphen"/>demned, Burnt in the Hand, <hi>&amp;c.</hi> With an Account of the Proceedings Againſt Captain TOM.</head>
+            <p>THE Court being ſat, the <hi>London</hi>-Jury firſt came on, and two perſons were ſeverally brought to Tryal, one for a common Felony, of which there was ſufficient proof, the other for ſteal<g ref="char:EOLhyphen"/>ing a Gold-watch, of which in the opinion of the Court, and all the Jury but one man, there was very convincing Evidence, it being proved that it was ſtoln from the owner, and that it was found upon the Priſoner; a perſon of very ill fame, and who could give no account how he came by it. The Jury retiring to conſider of theſe two matters, and ſtaying longer than uſual, the Court ſent to know whether they were not agreed; who thereupon coming into Court, the Foreman declared, That they were all agreed except one, who would by no means yield to find the Priſoner for the Watch guilty: then the Court demanded what ſhould induce him to ſcruple it, after ſuch plain Evidence, and the thing taken upon him: to which the Juryman anſwered, That he was not ſa<g ref="char:EOLhyphen"/>tisfied in his Conſcience; for the Watch might be found with the man, and yet he not ſteal it. The Court expreſſed a great deal of tenderneſs, how fit it was the Conſcience of every Juryman ſhould be ſatisfied, but told him, they conceived in this Caſe there was no ground for ſcruple: But two of his fellow-Jurors inform'd the Court, that when in the morn<g ref="char:EOLhyphen"/>ing this Gentleman had very much inſiſted to be excuſed from ſerving on the Jury, and found that the Court would not allow him that favour,
+<pb n="2" facs="tcp:45804:2"/>but looked on him as a fit man to ſerve, he thereupon in ſeeming diſcon<g ref="char:EOLhyphen"/>tent did ſay in the Court ſo loud, that they heard him:—<hi>If I muſt be on, I'll be croſs, or plague them,</hi> or ſome words to that effect: which he abſolutely denyed; but the other two being particularly ſworn touching that matter, and teſtifying the words upon Oath, the Court reſented the ſame as a high miſdemeanour, and laid a Fine of fifty pounds upon him: For though Jury-men, 'tis ſaid, are not by Law to be puniſht by Fines, for giving Verdicts according to their Conſciences, yet it ſeems both juſt and neceſſary that ſuch miſdemeanours of reſolved ſtubbornneſs be reſtrained. Then the Court having given the ſaid Juror good Advice, the Jury was re<g ref="char:EOLhyphen"/>turned back again to conſider further of it; but he ſtill continued in the ſame ſentiments, and ſo occaſioned them all to be kept without Eating or Drinking from morning till ſix or ſeven a clock in the afternoon: in which interval the <hi>Middleſex</hi>-Jury proceeding upon buſineſs, there were ſeveral Indictments for other Felonies committed in <hi>Middleſex,</hi> brought againſt the ſame perſon, who was ſo charged with the Watch in <hi>London,</hi> and upon two of them he was found guilty. ſo that there being enough againſt him, the Court in reſpect to the <hi>London</hi>-Jury, (who could not by any means prevail with their Brother to joyn with them) diſcharged them of the ſaid Priſoner, and took their Verdict onely againſt the other; but withal ordered, That the ſaid Jury-man ſhould find ſureties to appear in the Kings-bench the firſt day of the next Term.</p>
+            <p>Another remarkable Tryal was about the Murder of a Conſtable at the <hi>Armitage-ſtairs,</hi> for which a poor Waterman ſtood Indicted; there were abundance of Witneſſes examined, and the Tryal was very tedious. But the ſum of the matter was to this effect: Some <hi>Scotchmen,</hi> half a dozen or more in all, belonging to a Ship that lay in the River, having been on ſhore, and 'tis probable taking plentiful Cups, as Sailors uſe, about nine of the Clock at night were returning to their Veſſel; and in order to get to their own Boat, ſome of them ſtept through a Boat of the Priſoners, in which there was a Boy, whom a <hi>Scotch</hi>-boy of this com<g ref="char:EOLhyphen"/>pany either trod upon or affronted, which made him ſtrike him, and the Scotchmen as faſt fell on the <hi>Engliſh</hi>-boy, who ran and called his Maſter the Priſoner, and ſo the Fray encreaſed: to quell which, the now Priſoner called the Conſtable living juſt by, and who was his intimate Friend; for at his houſe he uſed commonly to leave ſeveral Tackling belonging to his Boat, and other offices of Kindneſs frequently paſs'd between them. But ſo it hapned in the Scuffle, it being pretty dark, the Con<g ref="char:EOLhyphen"/>ſtable's Brains were beat out, ſuppoſed to be done with one of their Poles, or Hooks, which they uſe with their Boats. The <hi>Scotchmen</hi> ſhifted for themſelves and got away, and a perſon that was there al<g ref="char:EOLhyphen"/>ledged, that the now Priſoner ſtruck the fatal Blow; but beſides that there was no former Malice, ſo 'twas a moſt unlikely thing, that he ſhould go to hurt one that was his Friend, and came thither at his requeſt to aſſiſt him. So that upon the whole matter, it was believed ſuch witneſs might poſſibly be miſtaken, in ſo great an Hurry and Con<g ref="char:EOLhyphen"/>fuſion; ſo that the Waterman, who had the repute of an honeſt, civil, quiet man amongſt his Neighbours, was Acquitted.</p>
+            <p>A Perſon was Convicted for a Robbery in <hi>Middleſex,</hi> committed in a Victualling-houſe that ſtood alone, remote from Neighbours, whither the Priſoner, for ſome time before the Exploit was committed, uſed for ſome days frequently to reſort, and ſeem'd a very civil Gueſt: but ha<g ref="char:EOLhyphen"/>ving laid the Deſign, he and two or three more of his Companions came one Evening, about 9 or 10 of the Clock, before the Doors were ſhut, there being no body there but the Woman of the houſe and her Maid; where preſently ſwearing in a furious manner, they begun to demand
+<pb n="3" facs="tcp:45804:2"/>her Keys, and this Fellow held the Woman below, whilſt the reſt went up ſtairs and ranſackt her Trunks, <hi>&amp;c.</hi> taking away in Money and Goods to the value of near Twenty Pounds; and then binding the Woman and her Servant, went away with the Booty. The Woman, whilſt the reſt were making havock above, ſeeing her ſelf like to be quite undone, wept bitterly, and ſaid to the now Priſoner who held her below, <hi>Alas, Sir, I did not imagine that you would have dealt thus by me!</hi> To which all the Anſwer the hard-hearted Villain returned, was with a ſcornful Smile, <hi>No indeed Landlady, I believe you did not.</hi> He had then a Perriwig on, and other Cloaths, but the Woman knew him by his Voice; and the Maid ſwore directy that he was the man: And ſo he was found Guilty.</p>
+            <p>An old fellow, one of thoſe that broke out of the Goal, and upon their retaking at St. <hi>Albons</hi> being brought up, were publickly expoſed with Collars about their Necks, to the view of the people without <hi>Newgate,</hi> having now ſeveral Indictments againſt him; when he was required to plead to the firſt, ſaid, He was Guilty of that and whatſoever elſe ſhould be hrought againſt him; and being thereupon asked, Why he would plead ſo unadviſedly, and whether he had a minde to caſt away his Life, anſwered, That he were as good caſt it away himſelf, for he was ſure he ſhould be Hang'd. And indeed he had no reaſon to promiſe himſelf a better Deſtiny, for he had been a notorious Houſebreaker, and the occaſion of many other mens ruine, by his bad Example, and per<g ref="char:EOLhyphen"/>nicious Counſel and Enticement.</p>
+            <p>A kind of Diſtracted Woman was Arraigned for ſtealing a great ſum of Money; but ſhe ſeemed to take no notice of, nor underſtand any thing that was ſaid againſt her; and the Officers of the Jail affirmed, that ever ſince her Commitment, ſhe appeared to them as a perſon Lunatick, or not <hi>compos mentis;</hi> and therefore in reſpect of her condition ſhe was ſet aſide.</p>
+            <p>A young man was found guilty of a Felony and Burghlary in <hi>London,</hi> breaking into an Houſe that he was well acquainted at in the night, and ſtealing thence a Gold Watch and other things, to the value of one hun<g ref="char:EOLhyphen"/>dred pounds and upwards.</p>
+            <p>A Bailey belonging to the Marſhals-Court, going to Arreſt a poor man for a Debt of ſeven ſhillings, and according to the uſual Cruelty and bar<g ref="char:EOLhyphen"/>barouſneſs of thoſe ſavage Cattle, beating and dragging him along; a Child of the mans, ſeeing her Father ſo uſed, cryed out: whereupon this brui<g ref="char:EOLhyphen"/>tiſh fellow turn'd about and ſtruck the poor Child a blow on the head with a great Cudgel, ſo furiouſly, that a Gentleman that ſaw it, teſtified it was enough to have knockt down the ſtouteſt man. However, the Child was for the preſent recovered to life, and by the help of a Surgeon, the Wound in ſome time ſeemed to be healed, but ſtill ſhe complained of her Head, and ſeemed to languiſh ever after, and not long after dyed; ſo that it was concluded he was the occaſion of her death, and accordingly the Jury found him guilty.</p>
+            <p>An Ale-houſe-keeper was likewiſe Indicted for killing a poor weak man, whom 'twas ſaid he kickt; but the proof not being poſitive, and the party deceaſed having long been known to be very infirm, he was ac<g ref="char:EOLhyphen"/>quitted.</p>
+            <p>Two Shop-lifts were Convicted of Felony for ſtealing of three pie<g ref="char:EOLhyphen"/>ces of Damask Silk out of a ſhop in <hi>London,</hi> where they came pretending to buy Diap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, and whilſt the man went to reach it, they got the ſilk; but he ſoon miſſed it, and purſuing them, they according to the uſual tricks of Practitioners in that Myſtery were ſeen to drop it.</p>
+            <p>A Gentleman belonging to a Perſon of Honour, took a Tryal for killing another; it appeared to be a ſudden Fray, and ſo was found
+<pb n="4" facs="tcp:45804:3"/>Manſlaughter, for which he took his Clergy; and for the other Inflicti<g ref="char:EOLhyphen"/>on of Law, produced a Warrant for a Pardon.</p>
+            <p>Two Women of the unlucky Gang, commonly called <hi>Gypſies,</hi> were Tryed for Robbing of a Countrey-Maid of a Silver Bodkin and ſome other ſmall things; but there being many of them when they came to the Houſe where ſhe lived in the Countrey, ſhe was not able to ſwear theſe were the perſons that did it: and ſo they were Acquitted.</p>
+            <p>Before the <hi>London</hi>-Jury was Diſcharg'd, ſome of them interceding for their Fellow before-mentioned, his Fine was remitted by the Court; but ſtill to anſwer the Miſdemeanour in the <hi>Kings-Bench.</hi>
+            </p>
+            <p>The Prentiſes all but Captain <hi>TOM,</hi> (as commonly called) formerly Committed, and ſome of them Bayl'd out laſt Seſſions, were now all Diſ<g ref="char:EOLhyphen"/>charged, there being no Proſecution againſt them.</p>
+            <p>A Woman that came to be a Servant in a Gentlemans houſe, before ſhe had been there five days, took an opportunity to Rob them of a conſiderable parcel of Plate and ſome Money, and carried it down into the Countrey by a Carrier; being diſcovered, was now Indicted to<g ref="char:EOLhyphen"/>gether with the ſaid Carrier, and ſhe was found Guilty: but the Car<g ref="char:EOLhyphen"/>rier being a very honeſt man, and nothing Criminal proved againſt him, was deſervedly Acquitted.</p>
+            <p>Several people were Arraigned for Stealing of <hi>Tankards, Cups,</hi> &amp;c. out of <hi>Drinking-houſes,</hi> to which ſome Pleaded <hi>Guilty,</hi> as being within the Benefit of Clergy, others were Convicted; but though there be ſuch frequent Damages ſuffered in this kinde, yet nothing can warn our <hi>proud</hi> Ale-drapers, but ſtill partly out of <hi>Ambition,</hi> and partly <hi>Covetouſneſs,</hi> to put off a Pint and a quarter inſtead of a Quart, they will continue the Cuſtome (though they forfeit their Licenſes by it) of ſelling their Li<g ref="char:EOLhyphen"/>quour in Silver Tankards, <hi>&amp;c.</hi>
+            </p>
+            <p>Two perſons were charg'd with High-Treaſon for Coyning, and ſome ſuſpicious Circumſtances were made out; but if they deſign'd any ſuch thing, they were but Bunglers at the Trade; and there being no punctual Proof, they were found Not Guilty.</p>
+            <p>A perſon was convicted touching Horſe-ſtealing; who it ſeems <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long followed the Trade of Receiving and putting off what Horſes his Confederates ſtole; and particularly now they having got a Stonehorſe and Mare, to diſguiſe them, guelded the Horſe; and artificially mark'd the Mare; yet notwithſtanding all their Art, it was diſcovered, and he Condemned.</p>
+            <p>There were in all Fourteen Condemned; that is to ſay: <hi>Tho. Newel, Will. Gilman, Mary Bird, Elianor Davies, Anne Rye, Will. Hall, Richard Speckman, John Biggs, John Eakins, Tho. Pardy, George Dugdale, Eliz. Brown, Robert Gale,</hi> and <hi>Tho. Shaw:</hi> And Ten burnt in the Hand, one for Tranſportation, and two to be Whipt: one woman being Reprived before Judgment, and the other four found quick with Child.</p>
+            <p>Moſt of the Prentices were diſcharged, as aforeſaid; but he that is uſually called Captain <hi>TOM,</hi> was thought fit to be kept in Priſon.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45804:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
